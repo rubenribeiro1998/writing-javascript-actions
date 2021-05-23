@@ -1,8 +1,8 @@
-#name: "JS Actions"
+# name: "JS Actions"
 
-#on: [push]
+# on: [push]
 
-#jobs:
+# jobs:
 #  action:
 #    runs-on: "ubuntu-latest"
 #   steps:
